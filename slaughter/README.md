@@ -1,8 +1,3 @@
 # slaughter
-
-## mystical
-### 鍋
-* サトウキビ x 3 = 縄
-* 縄 + 木 + 木 = 足場
-* 石炭の粉 + 骨の破片 + サトウキビ = tnt
-* クオーツ + 骨 + 骨の欠片 = コンジット
+## map
+* [mystical](./map/mystical.md)
