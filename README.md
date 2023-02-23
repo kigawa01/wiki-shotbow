@@ -1,0 +1,3 @@
+# shotbow wiki
+
+* [slaughter](./slaughter)
